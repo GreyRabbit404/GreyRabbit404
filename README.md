@@ -1,7 +1,7 @@
 Hi 👋 My name is Arjun Saxena
 =============================
 
-Android Development and DevOps as anchor
+Architecture is my Love , DEV is my command , DSA is my Thirst !
 ---------------------------------------
 
 Well off with DSA, currently pursuing my graduation from Computer Science and Engineering. Learning Android Development with Flutter and Dart, aspires REMOTE JOB.
